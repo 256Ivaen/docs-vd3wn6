@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-t88j04.salamcuanwin.sbs/sitemap.xml
